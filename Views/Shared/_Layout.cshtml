@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewData["Title"] - Evergreen Initiative</title>
+    <link rel="stylesheet" href="@Url.Content("~/css/style.css")" />
+</head>
+<body>
+    <header>
+        <h1>Evergreen Initiative</h1>
+        <nav>
+            <a asp-action="Index" asp-controller="Home">Home</a>
+            <a asp-action="Login" asp-controller="Home">Login</a>
+            <a asp-action="DashboardVolunteer" asp-controller="Home">Volunteer Dashboard</a>
+            <a asp-action="DashboardDonor" asp-controller="Home">Donor Dashboard</a>
+            <a asp-action="ProjectManagement" asp-controller="Home">Project Management</a>
+            <a asp-action="ImpactReport" asp-controller="Home">Impact Report</a>
+        </nav>
+    </header>
+    <main>
+        @RenderBody()
+    </main>
+    <footer>
+        <p>&copy; 2024 Evergreen Initiative.</p>
+    </footer>
+</body>
+</html>

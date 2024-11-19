@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\OneDrive\\Desktop\\SOEN_WEB_APP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72AF92B4-1026-4797-8D6B-0739D3205151}|SOEN_WEB_APP.csproj|c:\\users\\lab_services_student\\onedrive\\desktop\\soen_web_app\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{72AF92B4-1026-4797-8D6B-0739D3205151}|SOEN_WEB_APP.csproj|solutionrelative:wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AF92B4-1026-4797-8D6B-0739D3205151}|SOEN_WEB_APP.csproj|c:\\users\\lab_services_student\\onedrive\\desktop\\soen_web_app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AF92B4-1026-4797-8D6B-0739D3205151}|SOEN_WEB_APP.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AF92B4-1026-4797-8D6B-0739D3205151}|SOEN_WEB_APP.csproj|c:\\users\\lab_services_student\\onedrive\\desktop\\soen_web_app\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AF92B4-1026-4797-8D6B-0739D3205151}|SOEN_WEB_APP.csproj|solutionrelative:views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AF92B4-1026-4797-8D6B-0739D3205151}|SOEN_WEB_APP.csproj|c:\\users\\lab_services_student\\onedrive\\desktop\\soen_web_app\\views\\home\\dashboard-volunteer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AF92B4-1026-4797-8D6B-0739D3205151}|SOEN_WEB_APP.csproj|solutionrelative:views\\home\\dashboard-volunteer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AF92B4-1026-4797-8D6B-0739D3205151}|SOEN_WEB_APP.csproj|c:\\users\\lab_services_student\\onedrive\\desktop\\soen_web_app\\views\\home\\dashboard-donor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AF92B4-1026-4797-8D6B-0739D3205151}|SOEN_WEB_APP.csproj|solutionrelative:views\\home\\dashboard-donor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AF92B4-1026-4797-8D6B-0739D3205151}|SOEN_WEB_APP.csproj|c:\\users\\lab_services_student\\onedrive\\desktop\\soen_web_app\\views\\home\\project-management.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AF92B4-1026-4797-8D6B-0739D3205151}|SOEN_WEB_APP.csproj|solutionrelative:views\\home\\project-management.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AF92B4-1026-4797-8D6B-0739D3205151}|SOEN_WEB_APP.csproj|c:\\users\\lab_services_student\\onedrive\\desktop\\soen_web_app\\views\\home\\impact-report.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AF92B4-1026-4797-8D6B-0739D3205151}|SOEN_WEB_APP.csproj|solutionrelative:views\\home\\impact-report.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AF92B4-1026-4797-8D6B-0739D3205151}|SOEN_WEB_APP.csproj|c:\\users\\lab_services_student\\onedrive\\desktop\\soen_web_app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AF92B4-1026-4797-8D6B-0739D3205151}|SOEN_WEB_APP.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AF92B4-1026-4797-8D6B-0739D3205151}|SOEN_WEB_APP.csproj|c:\\users\\lab_services_student\\onedrive\\desktop\\soen_web_app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AF92B4-1026-4797-8D6B-0739D3205151}|SOEN_WEB_APP.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive\\Desktop\\SOEN_WEB_APP\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive\\Desktop\\SOEN_WEB_APP\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T17:37:38.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive\\Desktop\\SOEN_WEB_APP\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive\\Desktop\\SOEN_WEB_APP\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "wwwroot\\css\\style.css",
+              "ViewState": "AQIAADUAAAAAAAAAAAAIwGcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-19T17:30:18.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "impact-report.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive\\Desktop\\SOEN_WEB_APP\\Views\\Home\\impact-report.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\impact-report.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive\\Desktop\\SOEN_WEB_APP\\Views\\Home\\impact-report.cshtml",
+              "RelativeToolTip": "Views\\Home\\impact-report.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T17:24:29.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "project-management.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive\\Desktop\\SOEN_WEB_APP\\Views\\Home\\project-management.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\project-management.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive\\Desktop\\SOEN_WEB_APP\\Views\\Home\\project-management.cshtml",
+              "RelativeToolTip": "Views\\Home\\project-management.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T17:23:40.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dashboard-donor.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive\\Desktop\\SOEN_WEB_APP\\Views\\Home\\dashboard-donor.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\dashboard-donor.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive\\Desktop\\SOEN_WEB_APP\\Views\\Home\\dashboard-donor.cshtml",
+              "RelativeToolTip": "Views\\Home\\dashboard-donor.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T17:23:11.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive\\Desktop\\SOEN_WEB_APP\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive\\Desktop\\SOEN_WEB_APP\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwCcAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T17:18:47.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive\\Desktop\\SOEN_WEB_APP\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive\\Desktop\\SOEN_WEB_APP\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T17:40:09.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dashboard-volunteer.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive\\Desktop\\SOEN_WEB_APP\\Views\\Home\\dashboard-volunteer.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\dashboard-volunteer.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive\\Desktop\\SOEN_WEB_APP\\Views\\Home\\dashboard-volunteer.cshtml",
+              "RelativeToolTip": "Views\\Home\\dashboard-volunteer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T17:22:43.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "login.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive\\Desktop\\SOEN_WEB_APP\\Views\\Home\\login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\login.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive\\Desktop\\SOEN_WEB_APP\\Views\\Home\\login.cshtml",
+              "RelativeToolTip": "Views\\Home\\login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T17:19:29.367Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
